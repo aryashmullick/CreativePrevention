@@ -1,6 +1,69 @@
 <h1>CreativePrevention</h1>
-A Minecraft Spigot Plugin which limit's the powers of the players in creative mode.
+A Minecraft Spigot Plugin which limits the powers of the players in creative mode.
 
 
 <a href="https://github.com/AR9157/CreativePrevention-A-minecraft-Plugin/blob/main/CreativePrevention-1.jar?raw=true">Download Here</a>
+
+Config.yml ->
+```
+# Welcome to CreativePrevention's config
+# A plugin made by AR_9157
+
+# Stop a player in creative to drop items.
+PreventionDrop: true
+# The message which will be displayed when a player in creative mode drops an item.
+PreventionDropMessage: "§c You are not allowed to drop items while in creative mode!"
+
+# Stop a player in creative to interact with blocks in the "preventionBlocks" list
+PreventionInteract: true
+
+# Blocks that the player cannot interact with if in creative mode.
+# Warning: Block names should be in uppercase!
+PreventionBlocks:
+  - CHEST
+  - BARREL
+  - FURNACE
+  - ENDER_CHEST
+  - CHEST_MINECART
+  - HOPPER
+  - SHULKER_BOX
+  - ITEM_FRAME
+  - WITHER_SKULL
+  - TNT
+  - TNT_MINECART
+  - FURNACE_MINECART
+  - BLAST_FURNACE
+  - SMOKER
+  - BEDROCK
+  - BARRIER
+
+# Players who will not be affected by CreativePrevention.
+# CASE SENSITIVE!
+# One name should always be present! (Default: AR_9157)
+PreventionWhitelist:
+  - AR_9157
+
+# This message which will be displayed when a player in creative mode interacts with the blocks in "preventionBlocks".
+PreventionInteractMessage: "§c You are not allowed to interact with this block while in creative mode!"
+PreventionInteractArmorStand: true
+PreventionInteractArmorStandMessage: "§c You are not allowed to interact with Armor stands while in creative mode!"
+
+# Clear items of players when they switch from creative to survival. PreventionWhitelist players won't be affected
+ClearItemsWhenGameModeChange: true
+# This message will be displayed when a player switches from survival to creative and is not PreventionWhitelisted.
+ClearItemsWhenGameModeChangeMessage: "§c Your items were cleared as you switched from creative to survival."
+
+# Stop a player in creative mode from damaging other entities.
+PreventionHit: true
+# if Enabled, this will stop a player in creative mode from hitting all types of entities. Disable if you want
+# the player to be stopped only when hitting another player.
+PreventionHitAllEntities: true
+# This message which will be displayed when a player in creative mode hits an entity.
+PreventionHitMessage: "§c You are not allowed to hit entities while in creative mode!"
+
+# Stops players from placing blocks in PreventionBlocks
+PreventionPlace: true
+#This message will be displayed when a player in creative mode tries to place a block blacklisted in PreventionBlocks
+PreventionPlaceMessage: "§c You are not allowed to place this block while in creative!"
+```
 
