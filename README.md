@@ -1,6 +1,6 @@
 <h1>CreativePrevention</h1>
 <b>A Minecraft Spigot Plugin which limits the powers of the players in creative mode.<b><br>
-
+Version : `1.5`
 
 <a href="https://github.com/AR9157/CreativePrevention-A-minecraft-Plugin/blob/main/CreativePrevention-1.jar?raw=true">Download It Here</a><br>
 
@@ -13,7 +13,11 @@ Features->
 > `PreventionWhitelist`: Players who will not be affected by the plugin.<br>
 > `PreventionBlocks`: Blocks which players cannot interact with or place.<br>
 
-
+Commands->
+`/cp help`: Help command for the plugin.
+`/cp reload`: Reload the configuration file of the plugin.
+  
+  
 Config.yml ->
 ```
 # Welcome to CreativePrevention's config
