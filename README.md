@@ -5,13 +5,13 @@ A Minecraft Spigot Plugin which limits the powers of the players in creative mod
 <a href="https://github.com/AR9157/CreativePrevention-A-minecraft-Plugin/blob/main/CreativePrevention-1.jar?raw=true">Download Here</a>
 
 Features->
-> Stop players in creative from hitting other entities.
-> Stop players in creative from dropping items.
-> Stop players in creative from interacting with specific blocks.
-> Stop players in creative from placing specific blocks.
-> Clear inventory when player changes gamemode from creative to survival.
-> `PreventionWhitelist`: Players who will not be affected by the plugin.
-> `PreventionBlocks`: Blocks which players cannot interact or place.
+-> Stop players in creative from hitting other entities.
+-> Stop players in creative from dropping items.
+-> Stop players in creative from interacting with specific blocks.
+-> Stop players in creative from placing specific blocks.
+-> Clear inventory when player changes gamemode from creative to survival.
+-> `PreventionWhitelist`: Players who will not be affected by the plugin.
+-> `PreventionBlocks`: Blocks which players cannot interact or place.
 
 
 Config.yml ->
