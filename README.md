@@ -2,6 +2,7 @@
 <b>A Minecraft Spigot Plugin which limits the powers of the players in creative mode.<b><br>
 
 Version : `1.5` <br>
+Minecraft Version: `1.16 and above`<br>
 
 <a href="https://github.com/AR9157/CreativePrevention-A-minecraft-Plugin/blob/main/CreativePrevention-1.jar?raw=true">Download It Here</a><br>
 
@@ -19,6 +20,7 @@ Commands-> <br>
 > `/cp reload`: Reload the configuration file of the plugin.<br>
   
   
+
 Config.yml ->
 ```
 # Welcome to CreativePrevention's config
