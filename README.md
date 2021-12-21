@@ -1,5 +1,6 @@
-# CreativePrevention-A-minecraft-Plugin
-A Minecraft Spigot Plugin which stops players in creative to use their power for bad.
+<h1>CreativePrevention</h1>
+A Minecraft Spigot Plugin which limit's the powers of the players in creative mode.
 
-<a id="raw-url" href="https://github.com/AR9157/CreativePrevention-A-minecraft-Plugin/blob/main/CreativePrevention-1.jar?raw=true">Download FILE</a>
+
+<a href="https://github.com/AR9157/CreativePrevention-A-minecraft-Plugin/blob/main/CreativePrevention-1.jar?raw=true">Download Here</a>
 
