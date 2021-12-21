@@ -14,9 +14,9 @@ Features->
 > `PreventionWhitelist`: Players who will not be affected by the plugin.<br>
 > `PreventionBlocks`: Blocks which players cannot interact with or place.<br>
 
-Commands->
-`/cp help`: Help command for the plugin.<br>
-`/cp reload`: Reload the configuration file of the plugin.<br>
+Commands-> <br>
+> `/cp help`: Help command for the plugin.<br>
+> `/cp reload`: Reload the configuration file of the plugin.<br>
   
   
 Config.yml ->
