@@ -4,7 +4,7 @@
 Version : `1.5` <br>
 Minecraft Version: `1.16 and above`<br>
 
-<a href="https://github.com/AR9157/CreativePrevention-A-minecraft-Plugin/blob/main/CreativePrevention-1.jar?raw=true">Download It Here</a><br>
+<a href="https://github.com/AR9157/CreativePrevention/blob/main/CreativePrevention-1.jar?raw=true">Download It Here</a><br>
 
 Features->
 > Stop players in creative from hitting other entities. <br>
