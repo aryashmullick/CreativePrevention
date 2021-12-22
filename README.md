@@ -1,4 +1,4 @@
-<h1>CreativePrevention</h1>
+<h1><center>CreativePrevention</center></h1>
 <b>A Minecraft Spigot Plugin which limits the powers of the players in creative mode.<b><br>
 
 
