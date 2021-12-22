@@ -5,7 +5,7 @@
 Current Version : `1.5` <br>
 Minecraft Version: `1.16 and above`<br>
 
-<a href="https://github.com/AR9157/CreativePrevention/blob/main/CreativePrevention-1.jar?raw=true">Click here to download</a><br><br>
+<a href="https://github.com/AR9157/CreativePrevention/blob/main/CreativePrevention-1.jar?raw=true">Click here to download</a><br>
   
 <a href="https://www.spigotmc.org/resources/creativeprevention.98569/">View this plugin on Spigotmc.org</a><br>
 
