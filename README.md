@@ -25,7 +25,7 @@ Commands-> <br>
   
 
 Config.yml ->
-```
+```yml
 # Welcome to CreativePrevention's config
 # A plugin made by AR_9157
 
